@@ -146,3 +146,5 @@ uploads/
 docs/
 # Session handoff notes are private
 README-HANDOFF-*
+# Infra wiring (nginx, systemd, deploy scripts) lives in the private deploy repo
+deploy/
